@@ -1,7 +1,17 @@
+import Chai from "./Chai";
+
 function App() {
   return (
-    <h1>Hello, React! | Vikky, in this example we try to manipulate the DOM and update the state.</h1>
+    <>
+     <Chai/>
+     
+    </>
   );
 }
 
 export default App;
+
+// we can wrap multiple elements in a div or React Fragment (<> </>) to return a single element from the component.
+
+// reloading in the vs code 
+// ctrl+shift+p -> reload window

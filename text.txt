@@ -1,0 +1,60 @@
+# why do learn React?
+// => hype , job , trend , build UI
+// => makes easy to manage and build complete frontend
+
+
+# when should I learn React?
+// => after mastering js
+// => most project don't need  react  in initial phase
+
+
+
+# Why react was created?
+// => ghost message problem => incosistency in UI (facebook)
+// does not sync state->js to UI-> dom
+// => solution => virtual DOM (react) => sync state to virtual DOM and then to real DOM
+// => react create virtual DOM and update it and then update real DOM
+// => react create component and manage state and props
+
+
+# Dont learn React if:
+// => you are not comfortable with js
+// you dont know how JS works or dom works
+
+
+# react learning process 
+// => go in depth -> Babel , fibre, Virtual DOM , reconcillation, diffing algorithm, hydration etc.
+// => by making projects => todo app , weather app , e-commerce app etc.
+// => by learning react ecosystem => redux , react router , next js etc.
+
+
+# react is a library for building user interfaces
+// => framework VS library
+
+# Topic to learn in react 
+// -> core of react (state or  ui manipulation ,JSX)
+// -> component Reusability
+// -> Reusing of component (props)
+// -> How to propagate change (hooks)
+
+
+# hooks => useState , useEffect , useContext , useReducer , useRef etc.
+
+# Additional Addon to React
+// -> Router (react dont have router )
+// -> state management (react dont have state management)
+//   ---> redux ,  redux toolkit ,zustand , context  API etc .
+// -> class based component
+//   --->legacy code
+// -> BAAS Apps
+//  ---> firebase , supabase , AWS amplify etc.
+//  ---> social media clone , e-commerce clone , chat app etc. (full stack project)
+
+
+# After REACT
+// => react is not a complete solution in most cases -> no seo , browser Render of js , no routing, no state management etc.
+// => next js (full stack framework for react)
+// => react native (mobile app development)
+// => electron js (desktop app development)
+// => gatsby js (static site generator)
+// => remix js (full stack framework for react) 

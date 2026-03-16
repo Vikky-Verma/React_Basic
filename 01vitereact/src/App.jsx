@@ -1,9 +1,16 @@
+import Chai from "./chai";
 
-
-function App() {
+function App() { 
   return (
-    <h1>Hello, React with Vite! | Vikky, in this example we try to manipulate the DOM and update the state.</h1>
+    <>  
+      <Chai/>
+      <h1>Welcome to react </h1> 
+      <p>test paragraph</p>
+    </>
   )
 }
 
 export default App
+
+
+// we can wrap multiple elements in a div or React Fragment (<> </>) to return a single element from the component.
