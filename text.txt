@@ -58,3 +58,7 @@
 // => electron js (desktop app development)
 // => gatsby js (static site generator)
 // => remix js (full stack framework for react) 
+
+
+// from here we should learn about fiber , virtual dom , reconcillation
+https://github.com/acdlite/react-fiber-architecture
