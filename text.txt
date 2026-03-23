@@ -62,3 +62,6 @@
 
 // from here we should learn about fiber , virtual dom , reconcillation
 https://github.com/acdlite/react-fiber-architecture
+
+// for tailwind documentation
+https://tailwindcss.com/
